@@ -1,0 +1,4 @@
+*.DS_Store
+NetAScore/data/*.xml
+NetAScore/data/*.gpkg
+*.pyc
