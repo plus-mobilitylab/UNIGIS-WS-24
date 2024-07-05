@@ -5,7 +5,7 @@ Material für den UNIGIS-Workshop "Netzwerkanalysen zur Förderung aktiver Mobil
 - Live-Demo Anwendungen des Mobility Labs: https://mobilitylab.zgis.at/demos/
 - NetAScore: [Übersicht](https://mobilitylab.zgis.at/netascore-2/) bzw. [Code und Wiki direkt auf GitHub](https://github.com/plus-mobilitylab/netascore): https://github.com/plus-mobilitylab/netascore
 - Spatial Betweenness Centrality: [Short Paper](https://doi.org/10.4230/LIPIcs.GIScience.2023.83) sowie [Code, Daten und weitere Beispiele](https://doi.org/10.5281/zenodo.8125632)
-
+- Präsentationsfolien: https://filesender.aco.net/?s=download&token=4c7cd36f-0a0c-4032-ab40-3eeb7e272ae2 
 
 ## Voraussetzungen
 
