@@ -1,5 +1,7 @@
 # Workshop: Netzwerkanalysen zur Förderung aktiver Mobilität
 
+Link zur Präsentation: https://filesender.aco.net/?s=download&token=4c7cd36f-0a0c-4032-ab40-3eeb7e272ae2 
+
 ## Überblick über die bereitgestellten Materialien
 
 - Die Datei [README.md](README.md) enthält wichtige Informationen zur Vorbereitung: welche Software wird benötigt, wie wird die Conda-Umgebung eingerichtet, etc.
