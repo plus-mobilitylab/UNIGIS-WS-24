@@ -1,0 +1,528 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-07-04T19:14:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1014548",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "5020",
+        "addr:street": "Churfürststraße",
+        "amenity": "university",
+        "building": "university",
+        "building:levels": "4",
+        "description": "Juridische Fakultät",
+        "name": "Paris Lodron Universität Salzburg",
+        "name:ko": "토스카나트라크트",
+        "operator": "Universität Salzburg - Rechtswissenschaftliche Fakultät",
+        "operator:type": "university",
+        "roof:levels": "1",
+        "type": "multipolygon",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.044504,
+          47.7989202
+        ]
+      },
+      "id": "relation/1014548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2087611",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Paris Lodron Universität",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0446723,
+          47.7977693
+        ]
+      },
+      "id": "relation/2087611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2141054",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "34",
+        "addr:postcode": "5020",
+        "addr:street": "Hellbrunner Straße",
+        "alt_name": "Nawi",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Naturwissenschaftliche Fakultät",
+        "toilets:wheelchair": "yes",
+        "type": "multipolygon",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.060198,
+          47.788462
+        ]
+      },
+      "id": "relation/2141054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24474163",
+        "addr:housenumber": "42",
+        "addr:postcode": "5020",
+        "addr:street": "Rudolfskai",
+        "alt_name": "Geswi",
+        "amenity": "university",
+        "building": "university",
+        "name": "Paris Lodron Universität Salzburg - Kultur- u. Gesellschaftswissenschaftliche Fakultät",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0504048,
+          47.7984459
+        ]
+      },
+      "id": "way/24474163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38937046",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "5020",
+        "addr:street": "Billrothstraße",
+        "amenity": "university",
+        "building": "university",
+        "name": "Forschungszentrum für Biowissenschaften und Gesundheit",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0733259,
+          47.7782177
+        ]
+      },
+      "id": "way/38937046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45030509",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "23",
+        "addr:postcode": "5020",
+        "addr:street": "Akademiestraße",
+        "amenity": "university",
+        "building": "university",
+        "name": "Pädagogische Hochschule Salzburg Stefan Zweig",
+        "ref": "Haus A",
+        "wheelchair": "no",
+        "wikidata": "Q22693409",
+        "wikipedia": "de:Pädagogische Hochschule Salzburg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.055959,
+          47.7915733
+        ]
+      },
+      "id": "way/45030509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45030619",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "23-25",
+        "addr:postcode": "5020",
+        "addr:street": "Akademiestraße",
+        "amenity": "university",
+        "building": "university",
+        "building:levels": "4",
+        "name": "Pädagogische Hochschule Salzburg Stefan Zweig",
+        "note": "Ersatzlösung wegen Umbau",
+        "operator": "Pädagogische Hochschule",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0550829,
+          47.791536
+        ]
+      },
+      "id": "way/45030619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45030859",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "23-25",
+        "addr:postcode": "5020",
+        "addr:street": "Akademiestraße",
+        "amenity": "university",
+        "building": "university",
+        "building:levels": "4",
+        "name": "Pädagogische Hochschule Salzburg Stefan Zweig",
+        "operator": "Pädagogische Hochschule",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0555212,
+          47.7915538
+        ]
+      },
+      "id": "way/45030859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54843115",
+        "addr:housename": "Solitär",
+        "addr:housenumber": "1",
+        "addr:postcode": "5020",
+        "addr:street": "Mirabellplatz",
+        "amenity": "university",
+        "building": "university",
+        "building:colour": "#F5F5F5",
+        "building:levels": "2",
+        "height": "14.07",
+        "name": "Universität Mozarteum - Solitär",
+        "roof:colour": "#C0C0C0",
+        "roof:shape": "flat",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0433321,
+          47.8040499
+        ]
+      },
+      "id": "way/54843115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/64205160",
+        "addr:housenumber": "11",
+        "addr:postcode": "5020",
+        "addr:street": "Sigmund-Haffner-Gasse",
+        "amenity": "university",
+        "building": "university",
+        "name": "Toskanatrakt",
+        "operator": "Universität Salzburg - Rechtswissenschaftliche Fakultät",
+        "operator:type": "university",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0442584,
+          47.7983003
+        ]
+      },
+      "id": "way/64205160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66138513",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "55",
+        "addr:postcode": "5020",
+        "addr:street": "Frohnburgweg",
+        "amenity": "university",
+        "building": "university",
+        "building:levels": "2",
+        "name": "Orff Institut",
+        "operator": "Universität Mozarteum",
+        "roof:levels": "1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0623003,
+          47.7767774
+        ]
+      },
+      "id": "way/66138513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66138581",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housename": "Schloss Frohnburg",
+        "addr:housenumber": "53",
+        "addr:postcode": "5020",
+        "addr:street": "Hellbrunner Allee",
+        "amenity": "university",
+        "building": "yes",
+        "building:levels": "3",
+        "castle_type": "stately",
+        "castle_type:de": "schloss",
+        "historic": "castle",
+        "name": "Schloss Frohnburg",
+        "name:ru": "Дворец Фронбург",
+        "operator": "Universität Mozarteum",
+        "wikidata": "Q2241087",
+        "wikimedia_commons": "Category:Schloss Frohnburg",
+        "wikipedia": "de:Schloss Fronburg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0610849,
+          47.7773162
+        ]
+      },
+      "id": "way/66138581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127807575",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "5020",
+        "addr:street": "Erzabt-Klotz-Straße",
+        "amenity": "university",
+        "building": "public",
+        "building:levels": "4",
+        "check_date": "2024-04-28",
+        "int_name": "University of Salzburg",
+        "name": "Universität Salzburg - Unipark",
+        "wheelchair": "yes",
+        "wikidata": "Q27265",
+        "wikipedia": "en:University of Salzburg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0541663,
+          47.7948457
+        ]
+      },
+      "id": "way/127807575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/192050650",
+        "amenity": "university",
+        "building": "yes",
+        "contact:fax": "+43 662 44 2002 1209",
+        "contact:phone": "+43 662 44 2002 0",
+        "contact:website": "http://www.pmu.ac.at/",
+        "name": "Paracelsus Medizinische Privatuniversität",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0314917,
+          47.8092599
+        ]
+      },
+      "id": "way/192050650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266071001",
+        "amenity": "university",
+        "name": "ÖH Österreichische Hochschülerschaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0497703,
+          47.7966712
+        ]
+      },
+      "id": "node/266071001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312738996",
+        "amenity": "university",
+        "check_date": "2024-04-28",
+        "name": "Unipark Nonntal",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0544846,
+          47.7947819
+        ]
+      },
+      "id": "way/312738996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/330235259",
+        "amenity": "university",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0314474,
+          47.8087073
+        ]
+      },
+      "id": "way/330235259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477834919",
+        "amenity": "university",
+        "name": "Mozarteum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0685205,
+          47.7815883
+        ]
+      },
+      "id": "node/477834919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/551204653",
+        "addr:housename": "Altes Mozarteum",
+        "addr:housenumber": "26",
+        "addr:postcode": "5020",
+        "addr:street": "Schwarzstraße",
+        "amenity": "university",
+        "name": "Universität Mozarteum (Altes Mozarteum)",
+        "name:en": "Universität Mozarteum (Old Building)",
+        "operator": "Universität Mozarteum",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0419345,
+          47.8035301
+        ]
+      },
+      "id": "node/551204653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571478721",
+        "amenity": "university",
+        "name": "Große Aula Universität Salzburg",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.042122,
+          47.7988767
+        ]
+      },
+      "id": "node/571478721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802519494",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "5020",
+        "addr:street": "Mirabellplatz",
+        "amenity": "university",
+        "building": "university",
+        "building:levels": "4",
+        "contact:fax": "+43 662 6198 3033",
+        "contact:phone": "+43 662 6198 0",
+        "contact:website": "https://www.moz.ac.at/",
+        "name": "Universität Mozarteum",
+        "name:en": "Mozarteum University",
+        "name:uk": "Моцартеум",
+        "opening_hours": "Mo-Fr 08:00-23:00; Sa-Su 09:00-19:00",
+        "roof:shape": "many",
+        "wikipedia": "de:Mozarteum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0436933,
+          47.8038414
+        ]
+      },
+      "id": "way/802519494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8860537924",
+        "amenity": "university",
+        "name": "Alte Geschichte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0454743,
+          47.7986451
+        ]
+      },
+      "id": "node/8860537924"
+    }
+  ]
+}
