@@ -3,3 +3,4 @@ networkx==3.2.1
 contextily
 plotly
 numpy
+pyogrio
